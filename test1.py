@@ -3,3 +3,4 @@ sfghsfjgsfhjf
 sfjhgfsjhgsfdjag
 
 изменения файла в ветке new_branch
+после результата слияния
